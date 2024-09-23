@@ -199,7 +199,7 @@
 
 ### Обоснование расположения ДЦ
 
-На основе (https://telegra.ph/Gde-data-centry-YAndeksa-03-07) и [склады](https://yandex.ru/maps/?from=mapframe&ll=52.821695%2C53.073344&mode=usermaps&source=mapframe&um=constructor%3Acbecbebc1953af83c4a0453d8ace4feb7dc239f35d3278858320e5e86909535d&utm_source=mapframe&z=5.86) можно обосновать расположение датацентров. Основная цель — снизить сетевые задержки и улучшить производительность для конечных пользователей.
+На основе (https://telegra.ph/Gde-data-centry-YAndeksa-03-07), [склады](https://yandex.ru/maps/?from=mapframe&ll=52.821695%2C53.073344&mode=usermaps&source=mapframe&um=constructor%3Acbecbebc1953af83c4a0453d8ace4feb7dc239f35d3278858320e5e86909535d&utm_source=mapframe&z=5.86) и [ПВЗ](https://yandex.ru/maps/?ll=91.148707%2C60.336308&mode=search&sctx=ZAAAAAgBEAAaKAoSCZ5eKcsQz0JAEdOgaB7A4EtAEhIJA137Anqh8j8RmPxP%2Fu4d7D8iBgABAgMEBSgKOABA4QFIAWoCcnWdAc3MzD2gAQCoAQC9AUi2ORzCAZIBieaipIME2ezzwqcBr6TszPMDitXvyckD7LrwnZ4G7deH0pUD9cnavIIH9ru3oo4Dzv6nl58F7%2FSv2OsD686Zr%2B0CiZX99mOP8OCVsAWpo9PI3AbI%2Bd%2B6oALm0OywvgbN7P2ZqwWWkZnrVsyR1KM%2Fivnh2NgCyvae27UGscn6yKQBsfvy4fYEmLeSkzf6uu7YmQOCAkPQv9GD0L3QutGC0Ysg0LLRi9C00LDRh9C4INGP0L3QtNC10LrRgSDQvNCw0YDQutC10YIg0L3QsCDQutCw0YDRgtC1igIAkgIAmgIMZGVza3RvcC1tYXBzqgIZMTM5NzIyMjgxMTE5LDIzNzkyMzg3NjQ5NrACAQ%3D%3D&sll=91.148707%2C60.336308&sspn=124.433297%2C36.312187&text=пункты%20выдачи%20яндекс%20маркет%20на%20карте&z=4.22) можно обосновать расположение датацентров. Основная цель — снизить сетевые задержки и улучшить производительность для конечных пользователей.
 
 Страна    | Локация ДЦ                | Обоснование
 ----------| --------------------------| ---------------------------------------------------------------------------
