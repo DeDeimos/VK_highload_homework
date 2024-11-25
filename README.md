@@ -807,7 +807,7 @@ Prometheus позволяет собирать метрики с базы дан
 <h2 id="11">11 Список серверов</h2>
 
 ### Веб-сервисы NGINX
-На официально сайте nginx ([Источник]([https://yastatic.net/s3/ir-docs/docs/2024/q2/57a1cu049ffbd144aeged36d47h173c2/MKPAO_Press_Release_RUS_rs94k.pdf](https://blog.nginx.org/blog/testing-the-performance-of-nginx-and-nginx-plus-web-servers))) видно, что сервер с 1 CPU видерживает 4 830 HTTP RPS
+На официально сайте [nginx](https://blog.nginx.org/blog/testing-the-performance-of-nginx-and-nginx-plus-web-servers) видно, что сервер с 1 CPU видерживает 4 830 HTTP RPS
 ![image](https://github.com/user-attachments/assets/dc75a35e-8ef2-49ba-a16f-524a03144d61)
 
 Данные:
